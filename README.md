@@ -1,25 +1,31 @@
-# LiRegalado | Computer Science Three Project
+# LiPlazaRegalado | Computer Science Three Project
 
-### Title
+### Possible Topics: 
+A site for a podcast that doesn’t exist.
+A portfolio of projects.
 
-### Description
+### Title:
+
+### Site Description: 
+
+### Palette/Site Art Style: 
 
 ### Outline
 
-##### Page One:  
-home page
-
-##### Page Two:  
+##### Page One: Home Page (assigned to both)
 
 
-##### Page Three: 
+##### Page Two: (assigned to )
 
 
-##### Page Four: 
+##### Page Three: (assigned to )
 
 
-##### Page Five: 
+##### Page Four: (assigned to )
 
 
-##### Page Six:  
-sources
+##### Page Five: (assigned to )
+
+
+##### Page Six: Image/Document Sources (assigned to both)
+
