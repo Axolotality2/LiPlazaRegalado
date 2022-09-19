@@ -12,11 +12,11 @@ It's a site about the phantom podcast Tuning Into the Noise! See their latest re
 ## Outline
 ### Page One: Home Page (assigned to both)
 This is the Main Page. It has links to the various subpages.
-![1](https://user-images.githubusercontent.com/112676678/191027695-94d5af19-fccb-4240-a9b0-9452ad92abc9.png)
+![1](https://user-images.githubusercontent.com/112676678/191029226-76a31dfa-a61c-4cb2-bd71-af6371d3386d.png)
 
 ### Page Two: What's TIN? (assigned to Igo)
 The team explains what the podcast is about, what _usually_ happens on the show, the inspiration behind this, and the various awards and nominations they've received.
-![2](https://user-images.githubusercontent.com/112676678/191027703-b2442548-304c-4415-9c85-8b188fd82226.png)
+![2](https://user-images.githubusercontent.com/112676678/191029281-0af2ad29-9089-45c6-bd31-0ff0931fb012.png)
 
 ### Page Three: About the Creators and the Team (assigned to Miguel)
 Learn a bit about the few friends who started the podcast, and the team that's slowly been growing since. Find out about their history before the podcast and what they're doing now. Also includes a shoutout to the crew who makes the whole thing possible!
@@ -26,7 +26,7 @@ A member of the team details the podcast's completely made-up history, starting 
 
 ### Page Five: Latest Releases and Where to Find Us (assigned to Miguel)
 It's a list of the most recent episodes (ten episodes) with short descriptions and a bunch of fake social media links, and share buttons. The episodes will not actually be playable.
-![3](https://user-images.githubusercontent.com/112676678/191027707-1db3323d-31ac-4ef8-b48a-23c3453a8bf2.png)
+![3](https://user-images.githubusercontent.com/112676678/191029341-5fb7f183-65a3-4bed-8384-af8cca0a7133.png)
 
 ### Page Six: Image/Document Sources (assigned to both)
 A list of image and document sources and inspirations.
