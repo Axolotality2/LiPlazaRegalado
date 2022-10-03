@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
+
+h1#title {
+  background-color: #B935D1;
+  padding: 30px 20px;
+
+  position: fixed;
+  top: -25px;
+  left: 0px;
+  width: 100%;
+  
+  font-family: 'Roboto Mono';
+  color: #FFFFFF;
+}
+
+div#nav {
+  position: relative;
+  top: 150px;
+  
+  width: 70%;
+  height: 425px;
+  
+  margin: auto;
+}
+
+div#nav ol {
+  list-style-type: none;
+}
+
+div#nav a {
+  background-color: #B935D1;
+  color: #000000;
+
+  width: 100px;
+  padding: 60px 50px;
+  
+  text-align: center;
+  text-decoration: none;
+  
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+
+  font-family: Raleway, sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+
+  display: block; 
+}
+
+div#nav a:hover {
+  background-color: #59258D;
+  color: #FFFFFF;
+}
+
+div#nav a#pg1 {
+  margin: auto;
+  
+}
+
+div#nav a#pg4 {
+  margin: auto;
+}
+
+div#nav a#pg2 {
+  margin: auto;
+  position: relative;
+
+  top: -267px;
+  left: -150px
+}
+
+div#nav a#pg3 {
+  margin: auto;
+  position: relative;
+
+  top: -445px;
+  left: 150px
+}
+
+  body {
+    /* background-image: url('../images/temp.png'); */
+    background-color: #000000;
+  }
