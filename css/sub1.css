@@ -1,37 +1,156 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
 @import url('https://fonts.googleapis.com/css2?family=Quicksand');
 
-.header {
-  color: #FFFFFF;
-  font-family: Helvetica, sans-serif;
-  
-  background-color: #5c3483;
-  padding: 5px 20px;
+#title {
+  background-color: #B935D1;
+  padding: 30px 20px;
 
-  position: sticky;
-  top: 0px;
-
+  position: fixed;
+  top: -25px;
+  left: 0px;
   width: 100%;
+  
+  font-family: 'Roboto Mono';
+  color: #FFFFFF;
+
+  z-index: 1;
+}
+
+a#homeButton:hover {
+  color: #FFFFFF;
+}
+
+#banner {
+  width: 99%;
+  height: 360px;
+  
+  alt: "banner";
+
+  position: absolute;
+  top: 160px;
+}
+
+.mainText {
+  position: absolute;
+  top: 300px;
+  
+  padding: 20%;
+  
+  font-family: Raleway, 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 8;
+}
+
+#article {
+  text-indent: 20px;
 }
 
 h3.subHeader {
   text-indent: 0px;
   padding: 10px;
-  color: black;
   
   font-family: Quicksand, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 30px;
   font-weight: 700;
 }
 
-#mainText {
-  text-indent: 20px;
-  padding: 10px 10%;
-  
-  font-family: Raleway, 'Trebuchet MS', Helvetica, sans-serif;
-  font-size: 8;
+#author {
+  text-indent: 0px;
 }
 
-#sidebar {
+#author img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+
+  position: relative;
+  top: -20px;
+}
+
+#author div > h4 {
+  position: relative;
+  top: -40px;
+}
+
+#author div > h5 {
+  position: relative;
+  top: -60px;
+}
+
+div#nav {
+  position: relative;
+  border: 2px solid #000000;
   
+  width: 90%;
+  height: 500px;
+  
+  margin: auto;
+  z-index: 0;
+}
+
+div#nav ol {
+  list-style-type: none;
+}
+
+div#nav li {
+  display: inline-block;
+}
+
+div#nav li a {
+  background-color: #e6e6e6;
+  color: #000000;
+
+  font-family: Raleway, sans-serif;
+  font-size: 2em;
+  font-weight: 600;
+
+  text-align: center;
+  text-decoration: none;
+
+  border-radius: 5%;
+}
+
+div#nav a:hover {
+  background-color: #ababab;
+  color: #FFFFFF;
+}
+
+div#nav a#toPage2 {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+
+  line-height: 200px;
+  width: 200px;
+  height: 200px;
+}
+
+div#nav a#toPage3 {
+  position: absolute;
+  top: 25px;
+  left: 250px;
+
+  line-height: 200px;
+  width: 400px;
+  height: 200px;
+}
+
+div#nav a#toPage4 {
+  position: absolute;
+  top: 250px;
+  left: 25px;
+
+  line-height: 200px;
+  width: 400px;
+  height: 200px;
+}
+
+div#nav a#toPage5 {
+  position: absolute;
+  top: 250px;
+  left: 450px;
+
+  line-height: 200px;
+  width: 200px;
+  height: 200px;
 }
