@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+#title {
+  background-color: #B935D1;
+  padding: 30px 20px;
+
+  position: fixed;
+  top: -25px;
+  left: 0px;
+  width: 100%;
+  
+  font-family: 'Roboto Mono';
+  color: #FFFFFF;
+
+  z-index: 1;
+}
+
+a#homeButton:hover {
+  color: #FFFFFF;
+}
+
+#mainText {
+  width: 90%;
+  height: 2100px;
+  
+  position: relative;
+  margin: 300px auto 0px;
+  padding: 20px;
+  
+  box-sizing: border-box;
+  
+  font-family: Raleway;
+  font-size: 8;
+
+  border: 1px solid #FF99FF;
+}
+
+ul#textLeft {
+  width: 30%;
+
+  position: absolute;
+  left: 35px;
+  
+  list-style-type: none;
+  display: block;
+  
+  border: 2px solid #FFFF99;
+}
+
+ul#textLeft li {
+  overflow: auto;
+
+  width: 80%;
+  height: 200px;
+  
+  margin-bottom: 200px;
+  
+  border: 2px solid #99FFFF;
+}
+
+ul#textRight {
+  width: 30%;
+
+  position: absolute;
+  right: 35px;
+  
+  list-style-type: none;
+  
+  display: block;
+  float: left;
+  
+  border: 2px solid #FFFF99;
+}
+
+ul#textRight li {
+  overflow: auto;
+
+  width: 80%;
+  height: 200px;
+  
+  margin-top: 200px;
+  
+  border: 2px solid #99FFFF;
+}
+
+#author {
+  text-indent: 0px;
+}
+
+#author img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+
+  position: relative;
+  top: -20px;
+}
+
+#author div #name {
+  position: relative;
+  top: -40px;
+}
+
+#author div #date {
+  position: relative;
+  top: -60px;
+}
